@@ -1,3 +1,3 @@
 # Bromeliad fauna
 
-Are very useful systems for studying ecology
+Are very useful systems for studying ecology et cetera
